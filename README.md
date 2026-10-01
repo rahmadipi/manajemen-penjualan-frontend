@@ -30,3 +30,26 @@ npm run dev
 ```
 
 Buka http://localhost:5173. Login default: **admin / admin123**.
+
+## Screenshots
+
+- Halaman Login  
+  ![Halaman Login](screenshots/login.PNG)
+
+- Halaman Dashboard  
+  ![Halaman Dashboard](screenshots/dashboard.PNG)
+
+- Halaman Master Produk  
+  ![Halaman Master Produk](screenshots/produk.PNG)
+
+- Halaman Transaksi  
+  ![Halaman Transaksi](screenshots/transaksi.PNG)
+
+- Paginasi  
+  ![Paginasi](screenshots/pagination.PNG)
+
+- Konfirmasi Hapus  
+  ![Konfirmasi Hapus](screenshots/konfirmasi.PNG)
+
+- Notifikasi Toast  
+  ![Notifikasi Toast](screenshots/toast.PNG)
